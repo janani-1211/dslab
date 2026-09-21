@@ -1,2 +1,0 @@
-# dslab
-Data Structure Laboratory
